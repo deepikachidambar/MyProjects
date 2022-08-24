@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-14T05:34:59Z" name="Default suite" finished-at="2022-08-14T05:35:06Z" duration-ms="7421">
+    <groups>
+    </groups>
+    <test started-at="2022-08-14T05:34:59Z" name="Default test" finished-at="2022-08-14T05:35:06Z" duration-ms="7421">
+      <class name="swag.qa.testclasses.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:04:59Z" name="setUp" finished-at="2022-08-14T11:05:01Z" duration-ms="2429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateTitleTest()[pri:1, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:01Z" name="validateTitleTest" finished-at="2022-08-14T11:05:01Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:01Z" name="tearDown" finished-at="2022-08-14T11:05:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:01Z" name="setUp" finished-at="2022-08-14T11:05:02Z" duration-ms="1054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateSwagLogoTest()[pri:2, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:02Z" name="validateSwagLogoTest" finished-at="2022-08-14T11:05:03Z" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSwagLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:03Z" name="tearDown" finished-at="2022-08-14T11:05:03Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:03Z" name="setUp" finished-at="2022-08-14T11:05:04Z" duration-ms="1032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateBotTest()[pri:3, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:04Z" name="validateBotTest" finished-at="2022-08-14T11:05:04Z" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBotTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:04Z" name="tearDown" finished-at="2022-08-14T11:05:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:04Z" name="setUp" finished-at="2022-08-14T11:05:05Z" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePasswordHint()[pri:4, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:05Z" name="validatePasswordHint" finished-at="2022-08-14T11:05:05Z" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordHint -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:05Z" name="tearDown" finished-at="2022-08-14T11:05:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:05Z" name="setUp" finished-at="2022-08-14T11:05:06Z" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginTest()[pri:5, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:06Z" name="validateLoginTest" finished-at="2022-08-14T11:05:06Z" depends-on-methods="swag.qa.testclasses.LoginPageTest.validatePasswordHint" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:swag.qa.testclasses.LoginPageTest@72437d8d]" started-at="2022-08-14T11:05:06Z" name="tearDown" finished-at="2022-08-14T11:05:06Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- swag.qa.testclasses.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

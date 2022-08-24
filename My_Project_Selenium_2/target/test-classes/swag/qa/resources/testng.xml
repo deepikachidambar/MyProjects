@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Swag Application Test Suite">
+<test name="Swag Application">
+
+<classes>
+<class name="swag.qa.testclasses.LoginPageTest"></class>
+</classes>
+</test>
+</suite>
